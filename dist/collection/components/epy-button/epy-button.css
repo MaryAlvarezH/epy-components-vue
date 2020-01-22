@@ -1,6 +1,0 @@
-:host ::slotted(.left) {
-  margin-right: 8px;
-}
-:host ::slotted(.right) {
-  margin-left: 8px;
-}

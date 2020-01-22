@@ -1,1 +1,0 @@
-System.register(["./p-aeb73f36.system.js"],(function(){"use strict";var e,t;return{setters:[function(s){e=s.p;t=s.b}],execute:function(){e().then((function(e){return t([["p-zg5ovwoe.system",[[4,"epy-button",{epyclass:[1]}]]]],e)}))}}}));

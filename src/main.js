@@ -1,7 +1,10 @@
 import Vue from "vue";
 import App from "./App.vue";
 import "../node_modules/epy-scss/dist/css/epy.css";
-import { applyPolyfills, defineCustomElements } from "../loader";
+import {
+  applyPolyfills,
+  defineCustomElements
+} from "../node_modules/epy-components/loader";
 
 Vue.config.productionTip = false;
 
